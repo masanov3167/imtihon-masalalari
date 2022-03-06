@@ -5,11 +5,5 @@
 //     {name: "Vali", price: 2000},
 // ];
 
-// function maxPrice() {
-//  var a =   arr.price(Math.max.apply(null, [arr]));
 
-//  console.log(a);
-
-// }
-// maxPrice();
 
